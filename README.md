@@ -1,4 +1,8 @@
+
 # MCQ Game App
+
+<img width="1197" alt="Screenshot 2025-04-15 at 7 25 33 PM" src="https://github.com/user-attachments/assets/eac835a0-782a-4f3b-adcb-3cd658e529ff" />
+
 
 # QuizGaming-Application 🎮🧠
 
